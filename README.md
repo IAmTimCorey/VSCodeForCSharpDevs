@@ -19,3 +19,9 @@ Every C# developer should know how to build C# applications using VSCode. This r
 * To run a Console application that utilizes the `ReadLine` method, change the `console` entry to `integratedTerminal` from `integratedConsole`.
 * To specify which web profile to use, add `"launchSettingsProfile": "<profileName>"` to the `launch.json` file.
 * To allow for Hot Reload, change the `preLaunchTask` value from `build` to `watch` in the `launch.json` file.
+
+## More Info
+* YouTube Video: [Intro to VSCode for C# Developers](https://youtu.be/r5dtl9Uq9V0)
+* YouTube Video: [Intro To The .NET CLI](https://youtu.be/RQLzp2Z8-BE)
+* Other Free Resources: [Resource at IAmTimCorey](https://www.iamtimcorey.com/resources.html)
+
